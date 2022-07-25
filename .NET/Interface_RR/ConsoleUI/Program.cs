@@ -31,10 +31,10 @@ namespace ConsoleUI
         {
             return new CustomerModel
             {
-                FirstName = "Tim",
-                LastName = "Corey",
-                City = "Scranton",
-                EmailAddress = "tim@IAmTimCorey.com",
+                FirstName = "Jonathan",
+                LastName = "Rojo",
+                City = "Tucson",
+                EmailAddress = "rojo932.com",
                 PhoneNumber = "555-1212"
             };
         }
